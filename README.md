@@ -12,6 +12,9 @@ You can use your css in index.css according to your convinience.
 app.js is the file for nodeJS.
 App.js is the file for AngularJS.
 
-*Take care for app and App, both are different files.
+**Take care for app and App, both are different files.**
+**Please initialise node so that all the dependencies come into your file.**
+**Each package is required, so make sure you install each package before running it on server.
 
+**Make sure you use proper port naming in mongoDB, it is highly important.
 Thanks..
