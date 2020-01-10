@@ -9,4 +9,9 @@ The UI is not decorated(css is not applied, please adjust.)
 
 You can use your css in index.css according to your convinience.
 
+app.js is the file for nodeJS.
+App.js is the file for AngularJS.
+
+*Take care for app and App, both are different files.
+
 Thanks..
